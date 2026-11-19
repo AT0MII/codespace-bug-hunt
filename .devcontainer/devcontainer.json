@@ -1,0 +1,1 @@
+{"customizations":{"vscode":{"extensions":["rust-lang.rust-analyzer","tintinweb.vscode-solidity","golang.go"]}},"image":"mcr.microsoft.com/devcontainers/universal:2","name":"Bug Hunt","postCreateCommand":"bash setup.sh"}
